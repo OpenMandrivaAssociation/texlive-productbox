@@ -55,6 +55,7 @@ package pgf and TikZ.
 #- source
 %doc %{_texmfdistdir}/source/latex/productbox/productbox.dtx
 %doc %{_texmfdistdir}/source/latex/productbox/productbox.ins
+%doc %{_tlpkgobjdir}/*.tlpobj
 
 #-----------------------------------------------------------------------
 %prep
@@ -65,3 +66,5 @@ package pgf and TikZ.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+mkdir -p %{buildroot}%{_tlpkgobjdir}
+cp -fpa tlpkg/tlpobj/*.tlpobj %{buildroot}%{_tlpkgobjdir}
