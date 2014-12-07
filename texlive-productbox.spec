@@ -6,7 +6,7 @@
 # catalog-version 1.1
 Name:		texlive-productbox
 Version:	1.1
-Release:	8
+Release:	9
 Summary:	Typeset a three-dimensional product box
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gene/productbox
