@@ -1,6 +1,6 @@
 Name:		texlive-productbox
 Version:	20886
-Release:	1
+Release:	2
 Summary:	Typeset a three-dimensional product box
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gene/productbox
