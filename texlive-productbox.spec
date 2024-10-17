@@ -3,7 +3,7 @@ Version:	20886
 Release:	2
 Summary:	Typeset a three-dimensional product box
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gene/productbox
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/gene/productbox
 License:	OTHER-FREE
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/productbox.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/productbox.doc.r%{version}.tar.xz
